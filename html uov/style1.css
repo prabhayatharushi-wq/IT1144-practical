@@ -1,0 +1,46 @@
+body{
+	background-color:#e6e8ed;
+	text-align:center;
+}
+.title-bar{
+	color:white;
+	background-color:blue;
+	padding:1px;
+	margin-top:50px;
+	margin-bottom:50px;
+}
+.card{
+	background-color:white;
+	border:2px solid black;
+	padding:20px;
+	display:block;
+	text-align:left;
+	margin:20px;
+}
+
+h2, p {
+  display: beside;
+  display:block;
+}
+button{
+	color:white;
+	background-color:blue;
+	cursor:pointer;
+	padding:10px;
+}
+footer{
+	background-color:blue;
+	color:white;
+	padding:50px
+
+}
+.btn-container{
+	margin-top:40px;
+}
+footer{
+	margin-top:40px;
+}
+img {
+    width: 200px;
+    height: auto;
+}
